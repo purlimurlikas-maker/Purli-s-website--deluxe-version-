@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Hero from "./components/Hero";
-import ThingsIMade from "./components/ThingsImade.jsx";
+import ThingsIMade from "./components/ThingsIMade.jsx";
 import Favourites from "./components/Favourites";
 import favouritefood from "./components/favouritefood";
 import hobbies from "./components/hobbies";
