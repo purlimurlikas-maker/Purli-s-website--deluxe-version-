@@ -8,13 +8,13 @@ This project is a personal website (deluxe version) about me and see my projects
 
 <p>I made it with React + Vite, and CSS</p>
 <p>I got the bones from https://snowglobe.hackclub.com/react-web-design and added my personality and content</p>
-<p>My design guide is in DESIGN.md</p>
+<p>My design guide is in DESIGN.md, I got the colours from https://coolors.co/palette/071952-088395-37b7c3-ebf4f6</p>
 
 I struggled with getting the website to work, and deploying it.
 
 Acknowledgements:
 I used the guide https://snowglobe.hackclub.com/react-web-design,
 the sound effects are from https://quicksounds.com,
-I used AI to help me understand my code, to get some things to work (for example the deployment), and i used AI when I had questions about how to make something.
+I used AI to help me understand my code, to get some things to work (for example the deployment), and i used AI when I had questions about how to make something. The fonts are from https://fonts.google.com/.
 
 
